@@ -1,0 +1,1 @@
+# portugol-ex0-par-ou-impar
